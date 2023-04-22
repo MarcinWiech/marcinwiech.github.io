@@ -19,4 +19,4 @@ I write computer programs and have 3 years of experience in the field. My passio
 
 I specialize in `backend development` mainly `Java`, and I love using my skills and creativity to solve intricate buisness problems. My portfolio showcases some of my most exciting projects and demonstrates my ability to work with different technologies.
 
-When I'm not working on projects, you can find me riding a bike, visiting a casle or with a camera in my hand. If you're interested in working together or just want to say hi, feel free to get in touch!
+When I'm not working on projects, you can find me riding a bike, visiting a casle or holding a camera. If you're interested in working together or just want to say hi, feel free to get in touch!
