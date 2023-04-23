@@ -11,7 +11,6 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Marcin Wiech's page about learning, photography and travel
 footer_text: >
   Powered by Jekyll with al-folio theme.
-  Hosted by GitHub Pages.
 keywords: programming, photography, cooking, learning  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
