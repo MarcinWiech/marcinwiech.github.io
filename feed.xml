@@ -1,5 +1,63 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://marcinwiech.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://marcinwiech.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-04-29T16:55:42+00:00</updated><id>https://marcinwiech.github.io/feed.xml</id><title type="html">blank</title><subtitle>Marcin Wiech&apos;s page about learning, photography and travel
-</subtitle><entry><title type="html">Visiting Sopot, Poland</title><link href="https://marcinwiech.github.io/articles/2023/sopot/" rel="alternate" type="text/html" title="Visiting Sopot, Poland" /><published>2023-04-15T21:01:00+00:00</published><updated>2023-04-15T21:01:00+00:00</updated><id>https://marcinwiech.github.io/articles/2023/sopot</id><content type="html" xml:base="https://marcinwiech.github.io/articles/2023/sopot/"><![CDATA[<p>I had always wanted to visit Sopot, a beautiful coastal town in Poland, known for its stunning beaches and bustling nightlife. Finally, I got the opportunity to visit Sopot for a few days and I was not disappointed.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://marcinwiech.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://marcinwiech.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-05-19T21:19:59+00:00</updated><id>https://marcinwiech.github.io/feed.xml</id><title type="html">blank</title><subtitle>Marcin Wiech&apos;s page about learning, photography and travel
+</subtitle><entry><title type="html">Devoxx UK 2023, London</title><link href="https://marcinwiech.github.io/articles/2023/devoxx/" rel="alternate" type="text/html" title="Devoxx UK 2023, London" /><published>2023-05-18T22:01:00+00:00</published><updated>2023-05-18T22:01:00+00:00</updated><id>https://marcinwiech.github.io/articles/2023/devoxx</id><content type="html" xml:base="https://marcinwiech.github.io/articles/2023/devoxx/"><![CDATA[<p>Recently, I had the opportunity to attend Devoxx UK, a conference dedicated to software development. It was an incredible event with a diverse range of speakers who covered various topics including Java, Cloud, Data, AI, Programming Languages, Architecture, Developer Practices, Culture, and much more. With over 170 talks in total, there was something for everyone. In this blog post, I want to highlight my personal favorite sessions from the conference.</p>
+
+<p><br /></p>
+
+<h4 id="scaling-from-0-to-20-million-users-by-josip-stuhli">Scaling: from 0 to 20 million users by Josip Stuhli</h4>
+<hr />
+<p>During his captivating presentation, Josip leads the audience on an architectural adventure that begins with a modest setup—a single desktop running Apache Server. However, as demand grew, so did the challenges. Josip skillfully addresses the hurdles he encountered while accommodating an expanding user base and offers actionable strategies to overcome them. This talk stood out as one of my personal favorites, earning a subjective <code class="language-plaintext highlighter-rouge">score of 9 out of 10</code>.</p>
+
+<p>Here are the key takeaways:</p>
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">Cache, cache, cache</code>, leveraging a reverse proxy whenever possible.</li>
+  <li><code class="language-plaintext highlighter-rouge">Monitor everything</code> comprehensively, but <code class="language-plaintext highlighter-rouge">optimize selectively</code> to maximize efficiency.</li>
+  <li>Gain deep insights into user behaviors to <code class="language-plaintext highlighter-rouge">tailor your solutions</code> accordingly.</li>
+  <li>Be <code class="language-plaintext highlighter-rouge">open to exploring</code> new technologies while maintaining the <code class="language-plaintext highlighter-rouge">readiness to roll back</code> if needed.</li>
+</ul>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0 d-flex align-items-center justify-content-center">
+        <iframe width="100%" height="315" src="https://www.youtube.com/embed/d22iKaVHfdg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+    </div>
+</div>
+
+<p><br />
+<br /></p>
+
+<h4 id="learning-through-tinkering-by-tom-cools">Learning Through Tinkering by Tom Cools</h4>
+<hr />
+<p>Tom emphasizes the <code class="language-plaintext highlighter-rouge">importance of incremental learning</code>. Through the concept of “The Zone of Proximal Development,” he conveys a powerful message: to foster sustainable growth and avoid discouragement, we should <code class="language-plaintext highlighter-rouge">focus on acquiring knowledge and skills that are within our reach</code>. By tackling subjects that are not too far beyond our current understanding, we can maintain a sense of progress and avoid overwhelming ourselves. Tom’s talk was both informative and enjoyable, earning a subjective <code class="language-plaintext highlighter-rouge">score of 8 out of 10</code>. I highly recommend it.</p>
+
+<p>Key takeaway:</p>
+<ul>
+  <li>Embrace the practice of <code class="language-plaintext highlighter-rouge">learning one thing at a time</code>.</li>
+</ul>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0 d-flex align-items-center justify-content-center">
+        <iframe width="100%" height="315" src="https://www.youtube.com/embed/nwhwNfO1WMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+    </div>
+</div>
+
+<p><br />
+<br /></p>
+
+<h4 id="what-being-a-sensei-taught-me-about-improving-by-roy-braam">What being a Sensei taught me about improving by Roy Braam</h4>
+<hr />
+<p>In his role as a Sensei, Braam meticulously observed his students, noting their strengths and weaknesses. Traditionally, he would concentrate on helping them improve in areas where they struggled the most. However, after studying successful Dutch athletes and their coaches, Braam made a surprising discovery that completely transformed his teaching approach. Subjective <code class="language-plaintext highlighter-rouge">score 8 out of 10</code>.</p>
+
+<p>Key takeaways:</p>
+<ul>
+  <li>Focus on <code class="language-plaintext highlighter-rouge">enhancing your strengths</code>, as other areas will naturally improve over time.</li>
+  <li><code class="language-plaintext highlighter-rouge">Value effort</code> rather than results.</li>
+  <li>Foster a safe environment where individuals <code class="language-plaintext highlighter-rouge">feel comfortable taking risks</code> and learning from failures.</li>
+</ul>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0 d-flex align-items-center justify-content-center">
+        <iframe width="100%" height="315" src="https://www.youtube.com/embed/2srpGZeClXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+    </div>
+</div>]]></content><author><name></name></author><category term="programming" /><summary type="html"><![CDATA[The Developer Community Conference]]></summary></entry><entry><title type="html">Visiting Sopot, Poland</title><link href="https://marcinwiech.github.io/articles/2023/sopot/" rel="alternate" type="text/html" title="Visiting Sopot, Poland" /><published>2023-04-15T21:01:00+00:00</published><updated>2023-04-15T21:01:00+00:00</updated><id>https://marcinwiech.github.io/articles/2023/sopot</id><content type="html" xml:base="https://marcinwiech.github.io/articles/2023/sopot/"><![CDATA[<p>I had always wanted to visit Sopot, a beautiful coastal town in Poland, known for its stunning beaches and bustling nightlife. Finally, I got the opportunity to visit Sopot for a few days and I was not disappointed.</p>
 
 <p>As soon as I entered the hotel, I was blown away by the view from my room. I could see the sea stretching out in front of me, and the sound of the waves crashing against the shore was soothing to my ears. I often found myself gazing out of the window, taking in the <code class="language-plaintext highlighter-rouge">breathtaking view</code>.</p>
 
