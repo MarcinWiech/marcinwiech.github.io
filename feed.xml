@@ -1,33 +1,142 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://marcinwiech.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://marcinwiech.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-01-29T21:48:12+00:00</updated><id>https://marcinwiech.github.io/feed.xml</id><title type="html">blank</title><subtitle>Marcin Wiech&apos;s page about learning, photography and travel
-</subtitle><entry><title type="html">Becoming friends with running, Amsterdam</title><link href="https://marcinwiech.github.io/articles/2024/running/" rel="alternate" type="text/html" title="Becoming friends with running, Amsterdam" /><published>2024-01-28T22:25:00+00:00</published><updated>2024-01-28T22:25:00+00:00</updated><id>https://marcinwiech.github.io/articles/2024/running</id><content type="html" xml:base="https://marcinwiech.github.io/articles/2024/running/"><![CDATA[<p>Ever since primary school days, I associated running with breathlessness, extreme exertion, and fatigue. It’s no surprise, as I participated in almost every school running competition without any proper training. Although I loved other sports, running was never my thing. Even though I attempted to change it numerous times, I always failed.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://marcinwiech.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://marcinwiech.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-01-30T20:29:01+00:00</updated><id>https://marcinwiech.github.io/feed.xml</id><title type="html">blank</title><subtitle>Marcin Wiech&apos;s page about learning, photography and travel
+</subtitle><entry><title type="html">Becoming friends with running</title><link href="https://marcinwiech.github.io/articles/2024/running/" rel="alternate" type="text/html" title="Becoming friends with running" /><published>2024-01-28T22:25:00+00:00</published><updated>2024-01-28T22:25:00+00:00</updated><id>https://marcinwiech.github.io/articles/2024/running</id><content type="html" xml:base="https://marcinwiech.github.io/articles/2024/running/"><![CDATA[<p>Ever since primary school days, I associated running with breathlessness, extreme exertion, and fatigue. It’s no surprise, as I participated in almost every school related running competition, busting the guts to be the fastest each time. Although, I loved other sports and tried to develop a similar feeling for running, my numerous efforts always went up in flames. I couldn’t understand why.</p>
 
-<p>Everything changed when I accidentally joined my sister for a run. Her pace was much slower than what I considered “mine”. I had to stop myself from running fast. Surprisingly, after the run, I felt energised, joyful, and happy about the experience. Quite a difference from the usual I can’t catch a breath feeling. The next day, we went for another run. The post run impressions were the same. I realised that perhaps I had never approached running in the right way. Always pushing it to the max.</p>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
 
-<p>In the meantime, I signed up for a 1/4 Iron Man. This gave me extra motivation to sit down and research a bit about running plans.</p>
+  <picture>
+    
 
-<p>Full disclosure: I’m a newbie, so take my advice with a grain, or handful, of salt.</p>
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/running/Mpark.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
 
-<p>Now, four months into this training journey, I run three times a week and continually improve my personal best across various distances. I’m currently in my top running form, and I’d like to share a few things that made this transformation possible.</p>
+  </picture>
+
+</figure>
+
+        <!-- <div class="caption">
+          Running location no 1: My home village forrest.
+         </div> -->
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/running/Amstelpark.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+        <!-- <div class="caption">
+          Amstelpark in January.
+        </div> -->
+    </div>
+</div>
+<div class="caption">
+    I would have not witness those places in such beauty if not for running.
+</div>
+
+<p>Everything changed when I expected it the least. I accidentally joined my sister for a run. Her pace was much slower than what I considered mine. I had to refrain myself from running fast. Surprisingly, after the run, I felt energised, joyful, and happy about the experience. Quite a difference from the usual “can’t catch a breath” feeling. The next day, we went for another run. The post run impressions were the same. I realised that perhaps I had never approached running the right way, always pushing it to the max.</p>
+
+<p>Soon after, I coincidentally signed up for a 1/4 Ironman event. I was excited about it and got extra motivation to sit down and research a bit about running.</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/running/Egmond.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/running/EgmondRain.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    Egmond run, famous for it's challenging weather conditions.
+</div>
+
+<p>Now, as if by magic, for the last four months, I’ve run around three times a week. Enjoying every single run and continually improving my personal bests across various distances. I’m currently in my top running form, and I’d like to share a few things that made this remarkable transformation possible.</p>
 
 <ul>
   <li>
-    <p><strong>MAKE IT ENJOYABLE:</strong> I mostly run at feel-good pace, and treat them as an opportunity to unwind.</p>
+    <p><strong>MADE IT ENJOYABLE:</strong> I mostly run at feel-good pace, and treat sessions as an opportunity to unwind. Before, I would always try to run as fast as possible.</p>
   </li>
   <li>
-    <p><strong>HAVE A GOAL:</strong> Signing up for a triathlon has provided extra motivation to build a solid running foundation.</p>
+    <p><strong>HAD A GOAL:</strong> Signing up for a triathlon has provided extra motivation to build a solid running foundation. I feel like by going for a run I’m making a contribution to a bigger goal.</p>
   </li>
   <li>
-    <p><strong>SCHEDULE RUNS:</strong> I run on set days. Mondays, Wednesdays and Saturdays (+/- one day depending on special circumstances). I don’t need to thing about whether it’s a good time for a run. I just do it.</p>
+    <p><strong>SCHEDULED RUNS:</strong> I run on set days. Mondays, Wednesdays and Saturdays (+/- one day depending on special circumstances). I don’t need to think about whether it’s a good time for a run. I just do it.</p>
   </li>
   <li>
-    <p><strong>VARIETY OF TRAININGS:</strong> On Mondays, I run at a feel-good pace. Wednesdays, similarly, and if I feel up to it, I do random interval running. Saturdays are dedicated to slow, long runs. I do them with a friend. Combining running with socialising and post-run treat in form of coffee and cake combo feels like killing two birds with one stone (I love animals).</p>
+    <p><strong>VARIETY OF TRAININGS:</strong> On Mondays and Wednesdays, I run at feel-good pace, and if I feel up to it, I do random faster intervals. Saturdays are dedicated to slow, long runs. I do them with a friend, thus combining running with socialising and post-run treat in form of coffee and cake combo. It feels like killing two birds with one stone (I love animals).</p>
   </li>
   <li>
-    <p><strong>GEAR:</strong> I invested in a pair of training shoes. They have good cushioning so I’m not afraid I’ll harm myself. Moreover, it would be a pity they dusted on a shoe rack.</p>
+    <p><strong>GEAR:</strong> I invested in a pair of training shoes. They have good cushioning so I’m not afraid of harming myself. Moreover, it would be a pity if they dusted on a shoe rack.</p>
   </li>
 </ul>
 
-<p>Special thanks to XXX, whose knowledge laid the foundation for the plan outlined above.</p>]]></content><author><name></name></author><category term="hobby" /><summary type="html"><![CDATA[Ever since primary school days, I associated running with breathlessness, extreme exertion, and fatigue. It’s no surprise, as I participated in almost every school running competition without any proper training. Although I loved other sports, running was never my thing. Even though I attempted to change it numerous times, I always failed.]]></summary></entry><entry><title type="html">Devoxx UK 2023, London</title><link href="https://marcinwiech.github.io/articles/2023/devoxx/" rel="alternate" type="text/html" title="Devoxx UK 2023, London" /><published>2023-05-18T22:01:00+00:00</published><updated>2023-05-18T22:01:00+00:00</updated><id>https://marcinwiech.github.io/articles/2023/devoxx</id><content type="html" xml:base="https://marcinwiech.github.io/articles/2023/devoxx/"><![CDATA[<p>Recently, I had the opportunity to attend Devoxx UK, a conference dedicated to software development. It was an incredible event with a diverse range of speakers who covered various topics including Java, Cloud, Data, AI, Programming Languages, Architecture, Developer Practices, Culture, and much more. With over 170 talks in total, there was something for everyone. In this blog post, I want to highlight my personal favorite sessions from the conference.</p>
+<p>Special thanks to youtube channel <a href="https://www.youtube.com/@adrianzycienasportowo"> Życienasportowo</a> which taught me loads about all running related topics.</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/running/Polkowice.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+        <div class="caption">
+          Starting line before a memorial run in Polkowice.
+         </div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/running/PostRunTreat.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+        <div class="caption">
+          Post run coffee &amp; cake combo.
+        </div>
+    </div>
+</div>]]></content><author><name></name></author><category term="hobby" /><summary type="html"><![CDATA[Ever since primary school days, I associated running with breathlessness, extreme exertion, and fatigue. It’s no surprise, as I participated in almost every school related running competition, busting the guts to be the fastest each time. Although, I loved other sports and tried to develop a similar feeling for running, my numerous efforts always went up in flames. I couldn’t understand why.]]></summary></entry><entry><title type="html">Devoxx UK 2023</title><link href="https://marcinwiech.github.io/articles/2023/devoxx/" rel="alternate" type="text/html" title="Devoxx UK 2023" /><published>2023-05-18T22:01:00+00:00</published><updated>2023-05-18T22:01:00+00:00</updated><id>https://marcinwiech.github.io/articles/2023/devoxx</id><content type="html" xml:base="https://marcinwiech.github.io/articles/2023/devoxx/"><![CDATA[<p>Recently, I had the opportunity to attend Devoxx UK, a conference dedicated to software development. It was an incredible event with a diverse range of speakers who covered various topics including Java, Cloud, Data, AI, Programming Languages, Architecture, Developer Practices, Culture, and much more. With over 170 talks in total, there was something for everyone. In this blog post, I want to highlight my personal favorite sessions from the conference.</p>
 
 <p><br /></p>
 
@@ -85,7 +194,7 @@
     <div class="col-sm mt-3 mt-md-0 d-flex align-items-center justify-content-center">
         <iframe width="100%" height="315" src="https://www.youtube.com/embed/2srpGZeClXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
     </div>
-</div>]]></content><author><name></name></author><category term="programming" /><summary type="html"><![CDATA[The Developer Community Conference]]></summary></entry><entry><title type="html">Visiting Sopot, Poland</title><link href="https://marcinwiech.github.io/articles/2023/sopot/" rel="alternate" type="text/html" title="Visiting Sopot, Poland" /><published>2023-04-15T21:01:00+00:00</published><updated>2023-04-15T21:01:00+00:00</updated><id>https://marcinwiech.github.io/articles/2023/sopot</id><content type="html" xml:base="https://marcinwiech.github.io/articles/2023/sopot/"><![CDATA[<p>I had always wanted to visit Sopot, a beautiful coastal town in Poland, known for its stunning beaches and bustling nightlife. Finally, I got the opportunity to visit Sopot for a few days and I was not disappointed.</p>
+</div>]]></content><author><name></name></author><category term="programming" /><summary type="html"><![CDATA[The Developer Community Conference]]></summary></entry><entry><title type="html">Visiting Sopot</title><link href="https://marcinwiech.github.io/articles/2023/sopot/" rel="alternate" type="text/html" title="Visiting Sopot" /><published>2023-04-15T21:01:00+00:00</published><updated>2023-04-15T21:01:00+00:00</updated><id>https://marcinwiech.github.io/articles/2023/sopot</id><content type="html" xml:base="https://marcinwiech.github.io/articles/2023/sopot/"><![CDATA[<p>I had always wanted to visit Sopot, a beautiful coastal town in Poland, known for its stunning beaches and bustling nightlife. Finally, I got the opportunity to visit Sopot for a few days and I was not disappointed.</p>
 
 <p>As soon as I entered the hotel, I was blown away by the view from my room. I could see the sea stretching out in front of me, and the sound of the waves crashing against the shore was soothing to my ears. I often found myself gazing out of the window, taking in the <code class="language-plaintext highlighter-rouge">breathtaking view</code>.</p>
 
