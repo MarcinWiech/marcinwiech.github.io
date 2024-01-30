@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Something important but it got late...
+subtitle:
 
 profile:
   align: right
