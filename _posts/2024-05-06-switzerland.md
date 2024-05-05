@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "The Unexpected Gem: Lucerne Steals the Show"
+title: "Lucerne Steals the Show"
 date: 2024-04-28 22:25:00
 description:
 tags: travel
 related_posts: false
-# categories: sample-posts
 ---
 Last week, I stumbled upon a city that changed the definition of beauty for me. Nestled amidst the breathtaking Alps and crystal-clear lake, it welcomed visitors with its charming Swiss architecture. This city, home to around 80,000 residents, seemed to me like an absolute tourist underdog compared to the likes of Zurich, Geneva, or Bern. But oh, it proved me wrong, very wrong. Say Grüezi to Lucerne, the city that defied expectations!
 
