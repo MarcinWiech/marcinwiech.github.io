@@ -11,6 +11,24 @@ Here you will find a collection of my favorite photographs capturing beautiful m
 
 <div class="row mt-4">
     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/photographs/louvre_park.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/photographs/city_sunset_2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="row mt-4">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/photographs/city_night.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/photographs/city_sunset.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="row mt-4">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/photographs/1.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
@@ -53,4 +71,5 @@ Here you will find a collection of my favorite photographs capturing beautiful m
         {% include figure.html path="assets/img/photographs/10.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
+
 
