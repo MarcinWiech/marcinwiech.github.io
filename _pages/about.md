@@ -15,8 +15,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I write computer programs and have 3 years of experience in the field. My passion for programming started when I created a computer-guide website for my grandmas, and since then, I've had the privilege of working with some amazing clients and companies, including `KOIOS Master Data`, `JPMorgan Chase & Co`, `Flow Traders`.
+Software Engineer with a passion for solving business problems. 
 
-I specialize in `backend development` mainly `Java`, and I love using my skills and creativity to solve intricate business problems. My portfolio showcases some of my most exciting projects and demonstrates my ability to work with different technologies.
+I've been turning ideas into code commercially since 2018, and my journey began with building a computer guide website for my grandmothers. Since then, I've had the privilege of working for amazing companies such as KOIOS Master Data, JPMorgan Chase & Co, and Flow Traders and working on side projects with friends.
 
-When I'm not working on projects, you can find me riding a bike, visiting a castle or holding a camera. If you're interested in working together or just want to say hi, feel free to get in touch!
+My expertise lies in backend development, particularly Java. I thrive on leveraging my skills and creativity to tackle complex business challenges.
+
+Beyond coding, I enjoy exploring on my bike, venturing to historical sites like castles, and capturing moments through photography.
+
+Feel free to reach out if you'd like to discuss potential collaborations or simply connect!
