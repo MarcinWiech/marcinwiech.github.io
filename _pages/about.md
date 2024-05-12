@@ -17,7 +17,7 @@ social: false  # includes social icons at the bottom of the page
 
 Software Engineer with a passion for solving business problems. 
 
-I've been turning ideas into code commercially since 2018. Since then, I've had and have the privilege of working for amazing companies such as KOIOS Master Data, JPMorgan Chase & Co, and Flow Traders and working on side projects with friends.
+I've been turning ideas into code commercially since 2018. I've had or have the privilege of working for amazing companies such as KOIOS Master Data, JPMorgan Chase & Co, and Flow Traders and working on side projects with friends.
 
 My expertise lies in backend development, particularly Java. I thrive on leveraging my skills and creativity to tackle complex business challenges.
 
