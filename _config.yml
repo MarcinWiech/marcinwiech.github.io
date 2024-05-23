@@ -9,13 +9,12 @@ last_name: Wiech
 email: marcin8wiech@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Marcin Wiech's page
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+footer_text: 
 keywords: marcin, wiech, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://marcinwiech.github.io # the base hostname & protocol for your site
+url: https://.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -105,8 +104,7 @@ x_username: # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
-contact_note: >
-  Let's connect
+contact_note: 
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
