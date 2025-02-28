@@ -107,5 +107,3 @@ Here you will find a collection of my favorite photographs capturing beautiful m
         {% include figure.liquid loading="eager" path="assets/img/photographs/10.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-
-

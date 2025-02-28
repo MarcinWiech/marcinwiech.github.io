@@ -6,6 +6,7 @@ description:
 tags: travel
 related_posts: false
 ---
+
 Last week, I stumbled upon a city that changed the definition of beauty for me. Nestled amidst the breathtaking Alps and crystal-clear lake, it welcomed visitors with its charming Swiss architecture. This city, home to around 80,000 residents, seemed to me like an absolute tourist underdog compared to the likes of Zurich, Geneva, or Bern. But oh, it proved me wrong, very wrong. Say Grüezi to Lucerne, the city that defied expectations!
 
 On a Friday night, my friend and I debated between going to Mount Rigi or Mount Pilatus, two popular hiking destinations, the next day. Pilatus, with its steeper slopes and rocky terrain, won us over as it seemed more "exciting". However, before reaching the summit by means of a cable car, we planned to stop by in nearby Lucerne.
@@ -15,7 +16,6 @@ On a Friday night, my friend and I debated between going to Mount Rigi or Mount 
         {% include figure.liquid loading="eager" path="assets/img/switzerland/2.jpeg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
 
 We thought of this intermediate step towards Mt. Pilatus as an F1 pit-stop. The plan was to tank our stomachs and quickly stroll around the old town. According to the plan, we parked by Lucerne Lake, just minutes from Lucerne's city centre where we planned to grab a bite. But the moment we stepped out of the car, our breath stopped. A majestic panorama unfolded before us. Grand, snow-capped mountain range surrounded the city. Below the peaks, sunlight gleamed on the clear lake. It was at that point that we realised, this may as well be the longest pit-stop in the F1 history.
 
@@ -50,5 +50,4 @@ As we approached the city, we were greeted by classical Swiss architecture. Towe
     </div>
 </div>
 
-This unexpected detour taught me a valuable lesson. While conquering Mount Pilatus, absolutely breathtaking in its own right, was our main goal, even the shortest break can turn into an extraordinary adventure. 
-
+This unexpected detour taught me a valuable lesson. While conquering Mount Pilatus, absolutely breathtaking in its own right, was our main goal, even the shortest break can turn into an extraordinary adventure.

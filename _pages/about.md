@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Software Engineer with a passion for solving business problems. 
+Software Engineer with a passion for solving business problems.
 
 I've been turning ideas into code commercially since 2018. During this time, I've had the privilege of working for amazing companies such as KOIOS Master Data, JPMorgan Chase & Co, and Flow Traders or working on side projects with friends.
 
