@@ -27,5 +27,3 @@ My expertise lies in backend development, particularly Java. I thrive on leverag
 Beyond coding, I enjoy exploring on my bike, venturing to historical sites like castles, and capturing moments through photography.
 
 Feel free to reach out if you'd like to discuss potential collaborations or simply connect!
-
-Feel free to reach out if you'd like to discuss potential collaborations or simply connect!
