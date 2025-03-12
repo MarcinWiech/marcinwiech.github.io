@@ -23,9 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/photographs/";
           },
-        },{id: "post-on-rough-waters-of-a-consumerism-ocean",
+        },{id: "post-on-rough-waters-of-the-consumerism-ocean",
       
-        title: "On Rough Waters of a Consumerism Ocean",
+        title: "On Rough Waters of the Consumerism Ocean",
       
       description: "",
       section: "Posts",
