@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/photographs/";
           },
-        },{id: "post-lucerne-steals-the-show",
+        },{id: "post-on-rough-waters-of-a-consumerism-ocean",
+      
+        title: "On Rough Waters of a Consumerism Ocean",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/speaker/";
+        
+      },
+    },{id: "post-lucerne-steals-the-show",
       
         title: "Lucerne Steals the Show",
       
