@@ -67,17 +67,6 @@ ninja.data = [{
           window.location.href = "/blog/2023/devoxx/";
         
       },
-    },{id: "post-visiting-sopot",
-      
-        title: "Visiting Sopot",
-      
-      description: "One of the coolest towns in northern Poland",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/sopot/";
-        
-      },
     },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
